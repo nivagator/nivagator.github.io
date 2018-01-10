@@ -1,2 +1,2 @@
-# nivagator.github.io
-Source for my personal blog
+# This is the source for my blog
+Creating a placeholder now. I'll eventually build it out using Jekyll.
