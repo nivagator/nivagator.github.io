@@ -1,12 +1,12 @@
 ---
 layout: post
-title: home lab
+title: home lab part 1
 date: 2018-05-11
 category: homelab
 ---
 
 I've been putting thought into my home network/lab setup recently and think its time to upgrade.
-
+<!--more-->
 Currently, the house is using an ISP provided modem/router/firewall for everything. Its an all in one unit with wifi and four LAN ports with a coaxial internet-side connection. I have four devices that do not have wifi: desktop PC, Synology NAS, VMWare Server, and a remote access device. Since my primary desktop PC requires a physical LAN connection and is located in my first floor office, the router - and all three of the other wired devices - is in thats same room. The rest of the house is wireless. Fire TV(s), Apple TV, Smart TV, Nintendo Wii U, the kid's MacMini, etc. 
 
 Initially, I'd like to accomplish four things with two more bonus objectives:
