@@ -3,3 +3,6 @@ markdown: kramdown
 
 email: gavindgreer@gmail.com
 github: nivagator
+
+excerpt_separator: <!--more-->
+show_drafts: false
